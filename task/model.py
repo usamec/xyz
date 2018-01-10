@@ -1,6 +1,3 @@
-import time
-
-
 data = list(map(float, open("data/numbers.txt")))
 
 print("Data loaded")
